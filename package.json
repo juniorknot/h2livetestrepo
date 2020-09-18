@@ -1,0 +1,37 @@
+{
+  "name": "@g3ktechnologies/testpackage",
+  "version": "1.0.1",
+  "description": "Live video component for Roberts Communication Networks LLC customers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacob-G3KTechnologies/h2livetestrepo.git"
+  },
+  "keywords": [
+    "roberts",
+    "communication",
+    "networks",
+    "rcn",
+    "h2live",
+    "ios"
+  ],
+  "author": "Jacob Hoel <jacob@g3ktechnologies.com>",
+  "contributors": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacob-G3KTechnologies/h2livetestrepo/issues"
+  },
+  "homepage": "https://github.com/Jacob-G3KTechnologies/h2livetestrepo#readme",
+  "dependencies": {
+    "md5": "^2.3.0",
+    "react-native-video": "^5.1.0-alpha8"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.63.0",
+    "react": "^16.13.1",
+    "react-native": "^0.63.2"
+  }
+}
