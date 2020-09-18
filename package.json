@@ -1,15 +1,46 @@
 {
-  "name": "@g3ktechnologies/testpackage",
-  "version": "1.0.1",
-  "description": "Live video component for Roberts Communication Networks LLC customers",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
+  "_from": "github:Jacob-G3KTechnologies/h2livetestrepo#master",
+  "_id": "@g3ktechnologies/testpackage@1.0.1",
+  "_inBundle": false,
+  "_location": "/@g3ktechnologies/testpackage",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "git+https://github.com/Jacob-G3KTechnologies/h2livetestrepo.git"
+    "raw": "Jacob-G3KTechnologies/h2livetestrepo#master",
+    "rawSpec": "Jacob-G3KTechnologies/h2livetestrepo#master",
+    "saveSpec": "github:Jacob-G3KTechnologies/h2livetestrepo#master",
+    "fetchSpec": null,
+    "gitCommittish": "master"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:Jacob-G3KTechnologies/h2livetestrepo#69a316a42e2d5a2e6768d68ecb73952269dfbb90",
+  "_spec": "Jacob-G3KTechnologies/h2livetestrepo#master",
+  "_where": "/Users/jacob/Documents/workspace/AwesomeProject",
+  "author": {
+    "name": "Jacob Hoel",
+    "email": "jacob@g3ktechnologies.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Jacob-G3KTechnologies/h2livetestrepo/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [],
+  "dependencies": {
+    "md5": "^2.3.0",
+    "react-native-video": "^5.1.0-alpha8"
+  },
+  "deprecated": false,
+  "description": "Live video component for Roberts Communication Networks LLC customers",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.63.0",
+    "react": "^16.13.1",
+    "react-native": "^0.63.2"
+  },
+  "gitHead": "69a316a42e2d5a2e6768d68ecb73952269dfbb90",
+  "homepage": "https://github.com/Jacob-G3KTechnologies/h2livetestrepo#readme",
   "keywords": [
     "roberts",
     "communication",
@@ -18,20 +49,15 @@
     "h2live",
     "ios"
   ],
-  "author": "Jacob Hoel <jacob@g3ktechnologies.com>",
-  "contributors": [],
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Jacob-G3KTechnologies/h2livetestrepo/issues"
+  "main": "index.js",
+  "name": "@jacob-g3ktechnologies/testpackage",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacob-G3KTechnologies/h2livetestrepo.git"
   },
-  "homepage": "https://github.com/Jacob-G3KTechnologies/h2livetestrepo#readme",
-  "dependencies": {
-    "md5": "^2.3.0",
-    "react-native-video": "^5.1.0-alpha8"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "metro-react-native-babel-preset": "^0.63.0",
-    "react": "^16.13.1",
-    "react-native": "^0.63.2"
-  }
+  "version": "1.0.2"
 }
